@@ -1,23 +1,21 @@
 <!DOCTYPE html>
 <!--
-    Apenas iniciando os meus testes no GIT
+    Apenas iniciando os meus testes no GITHUB
 -->
 <html>
     <head>
         <meta charset="UTF-8">
-        <title>teste com GIT</title>
+        <title>Ricardo GIT</title>
     </head>
     <body>
         <h1>
-        <?php
-            echo 'Olá GIT!';
-        ?>
+            Ferramenta GIThub
         </h1>
-        <p>tudo certinho até aqui</p>
+        <p>Repositório de projetos</p>
         <h3>lista de testes</h3>
         <ol>
-            <li><a href="teste.php">Teste</a></li>
-            <li><a href="home.php">Home</a></li>
+            <li><a href="teste.php">Inicio - projeto do zero</a></li>
+            <li><a href="home.php">Inicio  - projeto existente</a></li>
         </ol>
     </body>
 </html>
