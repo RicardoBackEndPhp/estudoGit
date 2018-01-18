@@ -6,6 +6,7 @@
     <head>
         <meta charset="UTF-8">
         <title>Ricardo GIT</title>
+        <meta charset="utf-8">
     </head>
     <body>
         <h1>
@@ -14,8 +15,8 @@
         <p>Repositório de projetos</p>
         <h3>lista de testes</h3>
         <ol>
-            <li><a href="teste.php">Inicio - projeto do zero</a></li>
-            <li><a href="home.php">Inicio  - projeto existente</a></li>
+            <li><a href="inicio_zero.php">Inicio - projeto do zero</a></li>
+            <li><a href="inicio_exist.php">Inicio  - projeto existente</a></li>
         </ol>
     </body>
 </html>
