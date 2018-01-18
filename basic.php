@@ -14,6 +14,7 @@
 		<li><b>git commit -m</b> - commitar (guardar no repositório local) e deixar uma mensagem de descrição.</li>
 		<li><b>git log</b> - ver todos "commits" efetuados.</li>
 		<li><b>git push</b> - enviar commit para o repositório remoto.</li>
+		<li><b>git push origin master</b> - enviar commit para o repositório remoto na branch master.</li>
 	</ol>
 	<hr/>
 	<a href="index.php">Voltar para home</a>
