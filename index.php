@@ -13,7 +13,7 @@
             echo 'Olá GIT!';
         ?>
         </h1>
-        <p>tudo certinho</p>
+        <p>tudo certinho até aqui</p>
         <h3>lista de testes</h3>
         <ol>
             <li><a href="teste.php">Teste</a></li>

@@ -11,5 +11,6 @@
 	<li><td>git commit -m "mensagem"</td>  	<td>=> envia as modificações para o GIT</td></li>
 	<li><td>git log</td>  					<td>=> visualiza todos os commits realizados</td></li>
 </ul>
+<h2>Tudo nosso!</h2>
 </body>
 </html>
