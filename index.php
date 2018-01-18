@@ -10,7 +10,7 @@
     <body>
         <h1>
         <?php
-            echo 'Olá mundo';
+            echo 'Olá GIT!';
         ?>
         </h1>
     </body>
