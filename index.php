@@ -17,6 +17,7 @@
         <ol>
             <li><a href="inicio_zero.php">Inicio - projeto do zero</a></li>
             <li><a href="inicio_exist.php">Inicio  - projeto existente</a></li>
+            <li><a href="basic.php">Comandos básicos</a></li>
         </ol>
     </body>
 </html>
