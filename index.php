@@ -14,5 +14,10 @@
         ?>
         </h1>
         <p>tudo certinho</p>
+        <h3>lista de testes</h3>
+        <ol>
+            <li><a href="teste.php">Teste</a></li>
+            <li><a href="home.php">Home</a></li>
+        </ol>
     </body>
 </html>
