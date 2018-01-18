@@ -7,9 +7,9 @@
 <body>
 	<h3>Início  - projeto existente</h3>
 	<hr/>
-	<ul>
+	<ol>
 		<li>Com o git intalado e logado em sua conta no github</li>
 		<li>Crie (inicie) um novo repositório</li>
-	</ul>
+	</ol>
 </body>
 </html>

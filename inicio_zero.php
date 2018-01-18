@@ -7,7 +7,7 @@
 <body>
 	<h3>Início - projeto do zero</h3>
 	<hr/>
-	<ul>
+	<ol>
 		<li>Baixar e instalar o GIT que se encontra no link <a href="https://git-scm.com">Aqui</a></li>
 		<li>Criar conta no github ou logar na sua conta já criada - <a href="https://github.com">Link</a></li>
 		<li>Uma vez logado, vamos criar um novo repositório clicando em <b>"New repository"</b></li>
@@ -24,6 +24,6 @@
 		<li>Para puxar os arquivos remotos e sincronizar os repositórios execute o comando abaixo</li>
 		<li><b>git pull origin master</b> e assim você terá os arquivos sincronizados na sua pasta do projeto</li>
 		<li>aqui pulamos para a parte de comandos básicos</li>
-	</ul>
+	</ol>
 </body>
 </html>
