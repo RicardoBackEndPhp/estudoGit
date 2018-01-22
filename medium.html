@@ -18,11 +18,11 @@
         </li>
 		
 		<li>
-			<em>next.</em>
+			<em>Revertendo modificações</em>
             <ol>
-                <li></li>
-                <li></li>
-                <li></li>
+                <li><b>git reset --soft [id do commit]</b> volta ao commit escolhido mantendo os outros commits realizados trakeados, ou seja, prontos para commitar novamente.</li>
+                <li><b>git reset --mixed [id do commit]</b> volta ao commit escolhido mantendo os outros commits realizados mas não os deixa trakeados, sendo assim, terá que ser efetuado o comando <b>git add *</b>.</li>
+                <li><b>git reset --hard [id do commit]</b> exclui os commits (e arquivos gerados nesse commit) que foram feitos depois do commit escolhido (id commit).</li>
             </ol>
 		</li>
 	</ul>
