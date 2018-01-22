@@ -1,4 +1,4 @@
 # Estudos da ferramenta GIT
-Site que ensina a trabalhar na ferramenta, 
-com um passo a passo para iniciar um projeto, 
-assim como alguns comandos que auxiliam no dia a dia.
+The focus of this project is the learning of tool GIT, with step at step 
+initial to a project of the zero or a projet there existing.
+Has also the main commands of the GIT.
